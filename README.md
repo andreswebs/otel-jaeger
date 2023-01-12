@@ -3,7 +3,7 @@
 A simple Docker Compose configuration to run an OpenTelemetry collector
 exporting traces to Jaeger locally.
 
-## Pre-requisits
+## Pre-requisites
 
 Docker and Docker Compose must be installed.
 
